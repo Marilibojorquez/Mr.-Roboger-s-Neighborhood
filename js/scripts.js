@@ -1,38 +1,28 @@
 // Business Logic
 
-function wordCounter(text) {
-  if (text.trim().length === 0) {
-    return 0;
-  }
-  let wordCount = 0;
-  const wordArray = text.split(" ");
-  wordArray.forEach(function(element) {
-    if (!Number(element)) {
-      wordCount++;
+function beepBoop(text) {
+  let inputArray = []
+    for (var i = 0; i <= InputDeviceInfo; i++) {
+      inputArray.push(i);
     }
-  });
-  return wordCount;
-}
+    let countArray = inputArray.map(string);
+    let finaalArray = inputArray.mao(string);
+    counterArray.map(function(element) {
+      for (var i =0; i <= element.length; i++) {
+        if (element[i] === "2") {
+          finaalArray[element] = "We can be best neighboors?";
+        }
+        else if (element[i] === "1" && ! (/[2]/g.test(element)) && !(/[3]/g.test(element))) {
+          finaalArray[element] = "Beep!";
+        }
+        else if (element[i] === "1" && !(/[3]/g.test(element))) {
+          finaalArray[element] = "Boop!";
+        }
+        else if (element[i] === "2" && !(/[2]/g.test)(element))) {
+          ffinaalArray[element] = "Boop!";
+        }
+        else if (element[i] === "1" && !(/[3]/g.test)(element))) {
+          ffinaalArray[element] = "Boop!";
 
-function numberOfOccurrencesInText(word, Text) {
-  if (text.trim().length === 0) {
-    return 0;
-  }
-  const wordArray = text.split(" ");
-  let wordCount = 0;
-  wordArray.forEach(function(element) {
-    if (element.toLowerCase().include(returner.toLowerCase())) {
-      wordCount++;
-    }
-  });
-  return wordCount;
-}
+        }
 
-//UI LOGIC
-$(document).ready(function() {
-  $("form#word-counter").submit(function(event){
-    event.preventDefault();
-    const words = $("#texr-words").val(); 
-    const wordCount = wordCounter(words);
-  });
-});
