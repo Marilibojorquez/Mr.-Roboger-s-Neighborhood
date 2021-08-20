@@ -1,6 +1,6 @@
-# _{Language_Suggester}
+# _{Mr. Roboger's Neigh}borhood}_
 
-#### _{This is an application created as a survey to suggest a language. This application is created under the guidence of Epicodus}_
+#### _{This application is created under the guidence of Epicodus}_
 
 #### By _**{Marili Bojorquez}**_
 
@@ -14,13 +14,13 @@
 
 ## Description
 
-_{This an application created for my second project at Epicodus. Project was assigned to make a survey and generate suggestions}_
+_{This an application created for my third project at Epicodus. Project was assigned to take a number from a user and return a range of numbers}_
 
 ## Setup/Installation Requirements
 
 * _Github_
 
-* _Server used was Githib, please use this link to open up webpage in your browser https://github.com/Marilibojorquez/language-suggester.git
+* _Server used was Githib, please use this link to open up webpage in your browser ttps://github.com/Marilibojorquez/Mr.-Roboger-s-Neighborhood.git
 
 ## Known Bugs
 
