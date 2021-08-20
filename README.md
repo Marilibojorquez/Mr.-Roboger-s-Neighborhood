@@ -1,4 +1,4 @@
-# _{Mr. Roboger's Neigh}borhood}_
+# _{Mr. Roboger's Neighborhood}_
 
 #### _{This application is created under the guidence of Epicodus}_
 
