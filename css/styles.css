@@ -1,0 +1,15 @@
+body {
+  color: #274153;
+  text-anchor: middle;
+  padding: 40px solid rgb(133, 155, 133);
+}
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Lucida Sans';
+  color: rgb(91, 145, 100);
+}
+
+.jumbotron {
+  background-color: rgb(230, 157, 157);
+}

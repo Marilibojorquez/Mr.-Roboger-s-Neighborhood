@@ -30,8 +30,9 @@ function numberOfOccurrencesInText(word, Text) {
 
 //UI LOGIC
 $(document).ready(function() {
-  $("form#word-counter").submit(function(event) {
+  $("form#word-counter").submit(function(event){
     event.preventDefault();
-    const
-  }
-}
+    const words = $("#texr-words").val(); 
+    const wordCount = wordCounter(words);
+  });
+});
