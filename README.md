@@ -1,3 +1,11 @@
+Specs
+1. Make substitution of number 1 with Beep!
+2. Make substitution of number 2 with Boop!
+3. Make substitution of number 3 with Won't you be my Neighbor?
+
+
+
+
 # _{Mr. Roboger's Neighborhood}_
 
 #### _{This application is created under the guidence of Epicodus}_
